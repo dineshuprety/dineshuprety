@@ -5,15 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dineshuprety" alt="dineshuprety" /></a> </p>
 
-- 🔭 I’m currently working on [GRC(CyberArrow)](https://www.cyberarrow.io/)
-
 - 🌱 I’m currently learning **Go lang, React.js**
 
 - 👯 I'm also available for freelance [Freelance](https://dineshuprety.com.np)
 
-- 👨‍💻 All of my projects are available at [https://dineshuprety.com.np](https://dineshuprety.com.np)
+- 👨‍💻 All of my projects are available at [https://dineshuprety.com.np](https://dineshuprety.com.np/aboutme)
 
-- 📝 I regularly write articles on [https://blog.dineshuprety.com.np](https://blog.dineshuprety.com.np)
+- 📝 I regularly write articles on [Laranepal](https://laranepal.com)
 
 - 💬 Ask me about **vue, laravel, php, Git**
 
