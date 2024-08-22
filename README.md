@@ -3,15 +3,10 @@
 <p><em>Software Engineer at <a href="http://www.cleartax.in">ClearTax</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://np.linkedin.com/in/dinesh-uprety-1a8696214)](https://np.linkedin.com/in/dinesh-uprety-1a8696214)
-![GitHub followers](https://img.shields.io/github/followers/dineshuprety?label=Follow&style=social)
-![](https://visitor-badge.glitch.me/badge?page_id=dineshuprety.dineshuprety)
-
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
 ```javascript
-const anmol = {
+const dinesh = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Typescript", "Go", "php"],
     askMeAbout: ["web dev", "tech", "app dev", "photography"],
@@ -36,7 +31,7 @@ const anmol = {
 ```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
-
+</b>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dineshuprety" alt="dineshuprety" /></a> </p>
 
 - 🌱 I’m currently learning **Go lang, React.js**
